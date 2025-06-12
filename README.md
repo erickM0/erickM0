@@ -9,7 +9,7 @@ Desenvolvedor .NET | Cursando Análise e Desenvolvimento de Sistemas
 
 ## 🛠️ Tecnologias e Habilidades
 ### 💻 Backend
-![C#](https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity_Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
