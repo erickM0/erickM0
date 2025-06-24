@@ -41,7 +41,8 @@ Em desenvolvimento...
 ## 📈 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickM0&theme=merko&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&hide_title=true&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erickM0&layout=compact&theme=merko&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickM0&layout=compact&theme=merko&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ## 📫 Como me Encontrar
 LinkedIn: linkedin.com/in/erick-macedo-oliveira-89528667/
